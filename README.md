@@ -1,2 +1,2 @@
 # Cpp_exercise
-My first Hello Program
+My first Hello
